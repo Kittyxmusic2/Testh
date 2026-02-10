@@ -1,2 +1,6 @@
 python-telegram-bot==20.7
 PyGithub==2.3.0
+requests
+urllib3
+certifi
+idna

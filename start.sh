@@ -1,2 +1,2 @@
 #!/bin/bash
-python soul.py
+python3 soul.py
